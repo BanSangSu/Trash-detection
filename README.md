@@ -2,7 +2,7 @@
 **Using Yolov5 model with TACO dataset**
 - **Period**: 13th - 14th Nov, 2021
 
-# AI Recycle Garbages Detection System for Recycling Companies  
+# AI Recycling Garbage Detection System for Recycling Companies
 
 https://github.com/BanSangSu/Trash-detection/assets/76412884/e64ce631-bd66-4797-8426-d1ff9bca0bfc)](https://github.com/BanSangSu/Trash-detection/assets/76412884/e64ce631-bd66-4797-8426-d1ff9bca0bfc
 
